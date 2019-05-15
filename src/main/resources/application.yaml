@@ -1,0 +1,18 @@
+server:
+  port: 8080
+  tomcat:
+    uri-encoding: UTF-8
+mybatis:
+  type-aliases-package: com.book.bookManagement.User
+  configuration:
+    map-underscore-to-camel-case: true
+spring:
+  application:
+    name: case
+  http:
+    encoding:
+      force: true
+      charset: UTF-8
+      enabled: true
+  profiles:
+    active: dev

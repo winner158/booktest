@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Class-Path: logback-core-1.2.3.jar HikariCP-3.2.0.jar tomcat-embed-el-
+ 9.0.17.jar spring-aop-5.1.6.RELEASE.jar spring-core-5.1.6.RELEASE.jar
+  spring-boot-starter-tomcat-2.1.4.RELEASE.jar spring-boot-starter-log
+ ging-2.1.4.RELEASE.jar validation-api-2.0.1.Final.jar jboss-logging-3
+ .3.2.Final.jar lombok-1.18.6.jar mybatis-spring-1.3.1.jar spring-cont
+ ext-5.1.6.RELEASE.jar log4j-api-2.11.2.jar log4j-to-slf4j-2.11.2.jar 
+ tomcat-embed-core-9.0.17.jar spring-boot-autoconfigure-2.1.4.RELEASE.
+ jar tomcat-embed-websocket-9.0.17.jar pagehelper-4.1.5.jar spring-exp
+ ression-5.1.6.RELEASE.jar spring-tx-5.1.6.RELEASE.jar javax.annotatio
+ n-api-1.3.2.jar mybatis-3.4.4.jar c3p0-0.9.5.2.jar snakeyaml-1.23.jar
+  spring-boot-starter-web-2.1.4.RELEASE.jar jsqlparser-0.9.5.jar hiber
+ nate-validator-6.0.16.Final.jar spring-boot-starter-jdbc-2.1.4.RELEAS
+ E.jar hamcrest-core-1.3.jar jackson-datatype-jdk8-2.9.8.jar logback-c
+ lassic-1.2.3.jar persistence-api-1.0.jar mybatis-spring-boot-autoconf
+ igure-1.3.0.jar spring-jcl-5.1.6.RELEASE.jar spring-jdbc-5.1.6.RELEAS
+ E.jar spring-boot-starter-2.1.4.RELEASE.jar spring-webmvc-5.1.6.RELEA
+ SE.jar jackson-core-2.9.8.jar spring-boot-starter-json-2.1.4.RELEASE.
+ jar commons-lang3-3.1.jar spring-boot-2.1.4.RELEASE.jar classmate-1.4
+ .0.jar slf4j-api-1.7.26.jar fastjson-1.2.31.jar jackson-annotations-2
+ .9.0.jar jul-to-slf4j-1.7.26.jar mybatis-spring-boot-starter-1.3.0.ja
+ r spring-beans-5.1.6.RELEASE.jar jackson-datatype-jsr310-2.9.8.jar sp
+ ring-web-5.1.6.RELEASE.jar mysql-connector-java-5.1.35.jar mapper-3.3
+ .4.jar jackson-databind-2.9.8.jar mchange-commons-java-0.2.11.jar jun
+ it-4.12.jar jackson-module-parameter-names-2.9.8.jar
+Main-Class: com.book.BooktestApplication
+
